@@ -1,0 +1,1171 @@
+[
+  {
+    "material": "100% cotton",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 17
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 809
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 115
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 155
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "hoodie",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 1
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 28
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 63
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 7
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "jacket",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 4
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "outfits",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 4
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "outfits",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 3
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 146
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 335
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 12
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "pants",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 5
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "pants",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 1
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 15
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 465
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 3
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "shirt",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 14
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "shorts",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 10
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "shorts",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 2
+  },
+  {
+    "material": "100% cotton",
+    "clothing": "uniform",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 23
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "coat",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 151
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "coat",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 14
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "coat",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 2
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "dress",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 2
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "dress",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 19
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 41
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 21
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 33
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 26
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 40
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "jacket",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 4
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "outfits",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 63
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 5
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 157
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 30
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 14
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "pants",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 5
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 1
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 21
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "shorts",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 2
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "shorts",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 1
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "sleepwear",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 36
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "tanktop",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 4
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "underclothes",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 29
+  },
+  {
+    "material": "100% polyester",
+    "clothing": "underclothes",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 1
+  },
+  {
+    "material": "100% polyester recycled",
+    "clothing": "coat",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 23
+  },
+  {
+    "material": "100% polyester recycled",
+    "clothing": "coat",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 3
+  },
+  {
+    "material": "100% polyester recycled",
+    "clothing": "dress",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 6
+  },
+  {
+    "material": "100% polyester recycled",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 2
+  },
+  {
+    "material": "100% polyester recycled",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 1
+  },
+  {
+    "material": "100% polyester recycled",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 5
+  },
+  {
+    "material": "100% polyester recycled",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 3
+  },
+  {
+    "material": "44% polyester 29% cotton 21% viscose 6% elastane",
+    "clothing": "outfits",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 5
+  },
+  {
+    "material": "44% polyester 29% cotton 21% viscose 6% elastane",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 6
+  },
+  {
+    "material": "44% polyester 29% cotton 21% viscose 6% elastane",
+    "clothing": "sleepwear",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 17
+  },
+  {
+    "material": "44% polyester 29% cotton 21% viscose 6% elastane",
+    "clothing": "uniform",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 4
+  },
+  {
+    "material": "48% polyester 46% cotton 6% spandex",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 32
+  },
+  {
+    "material": "48% polyester 46% cotton 6% spandex",
+    "clothing": "hoodie",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 2
+  },
+  {
+    "material": "48% polyester 46% cotton 6% spandex",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 12
+  },
+  {
+    "material": "48% polyester 46% cotton 6% spandex",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 12
+  },
+  {
+    "material": "48% polyester 46% cotton 6% spandex",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 37
+  },
+  {
+    "material": "51% cotton 49% polyamide",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 23
+  },
+  {
+    "material": "51% cotton 49% polyamide",
+    "clothing": "t shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 36
+  },
+  {
+    "material": "53% cotton 30% polyester 17% elastomultiester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 14
+  },
+  {
+    "material": "53% cotton 30% polyester 17% elastomultiester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 9
+  },
+  {
+    "material": "53% cotton 30% polyester 17% elastomultiester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 48
+  },
+  {
+    "material": "53% cotton 47% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 26
+  },
+  {
+    "material": "53% cotton 47% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 16
+  },
+  {
+    "material": "53% cotton 47% polyester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 12
+  },
+  {
+    "material": "57% cotton 43% polyamide",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 12
+  },
+  {
+    "material": "57% cotton 43% polyamide",
+    "clothing": "t shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 41
+  },
+  {
+    "material": "61% cotton 39% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 103
+  },
+  {
+    "material": "61% cotton 39% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 9
+  },
+  {
+    "material": "61% cotton 39% polyester",
+    "clothing": "hoodie",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 1
+  },
+  {
+    "material": "61% cotton 39% polyester",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 9
+  },
+  {
+    "material": "61% cotton 39% polyester",
+    "clothing": "jacket",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 4
+  },
+  {
+    "material": "61% cotton 39% polyester",
+    "clothing": "shorts",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 14
+  },
+  {
+    "material": "65% cotton 35% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 77
+  },
+  {
+    "material": "65% cotton 35% polyester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 4
+  },
+  {
+    "material": "65% cotton 35% polyester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 28
+  },
+  {
+    "material": "66% polyamide 24% cupro 10% elastane",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 32
+  },
+  {
+    "material": "66% polyamide 24% cupro 10% elastane",
+    "clothing": "shorts",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 7
+  },
+  {
+    "material": "66% polyamide 24% cupro 10% elastane",
+    "clothing": "tanktop",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 4
+  },
+  {
+    "material": "66% polyamide 24% cupro 10% elastane",
+    "clothing": "underclothes",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 56
+  },
+  {
+    "material": "70% cotton 30% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 111
+  },
+  {
+    "material": "70% cotton 30% polyester",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 37
+  },
+  {
+    "material": "70% cotton 30% polyester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 23
+  },
+  {
+    "material": "72% cotton 28% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 9
+  },
+  {
+    "material": "72% cotton 28% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 1
+  },
+  {
+    "material": "72% cotton 28% polyester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 52
+  },
+  {
+    "material": "72% cotton 28% polyester",
+    "clothing": "t shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 105
+  },
+  {
+    "material": "73% cotton 27% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 90
+  },
+  {
+    "material": "73% cotton 27% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 2
+  },
+  {
+    "material": "73% cotton 27% polyester",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 44
+  },
+  {
+    "material": "73% cotton 27% polyester",
+    "clothing": "t shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 35
+  },
+  {
+    "material": "73% cotton 27% polyester",
+    "clothing": "uniform",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 52
+  },
+  {
+    "material": "73% polyester 27% cotton",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 5
+  },
+  {
+    "material": "73% polyester 27% cotton",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 70
+  },
+  {
+    "material": "73% polyester 27% cotton",
+    "clothing": "t shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 105
+  },
+  {
+    "material": "74% cotton 26% polyester",
+    "clothing": "sleepwear",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 88
+  },
+  {
+    "material": "74% cotton 26% polyester",
+    "clothing": "sleepwear",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 9
+  },
+  {
+    "material": "74% cotton 26% polyester recycled",
+    "clothing": "sleepwear",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 21
+  },
+  {
+    "material": "74% cotton 26% polyester recycled",
+    "clothing": "sleepwear",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 3
+  },
+  {
+    "material": "74% polyester 20% cotton 6% elastane",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 24
+  },
+  {
+    "material": "74% polyester 20% cotton 6% elastane",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 23
+  },
+  {
+    "material": "74% polyester 20% cotton 6% elastane",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 78
+  },
+  {
+    "material": "74% polyester 20% cotton 6% spandex",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 29
+  },
+  {
+    "material": "74% polyester 20% cotton 6% spandex",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 21
+  },
+  {
+    "material": "74% polyester 20% cotton 6% spandex",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 39
+  },
+  {
+    "material": "74% polyester 20% cotton 6% spandex",
+    "clothing": "pants",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 3
+  },
+  {
+    "material": "75% polyester 13% elastane 12% cupro",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 54
+  },
+  {
+    "material": "75% polyester 13% elastane 12% cupro",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 4
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "dress",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 3
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 12
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 43
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 9
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "hoodie",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 2
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 12
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 14
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 52
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 16
+  },
+  {
+    "material": "78% cotton 22% polyester",
+    "clothing": "shorts",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 7
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 5
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 353
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 108
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 73
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "hoodie",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 1
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 60
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "jacket",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 4
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 116
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 28
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "pants",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 3
+  },
+  {
+    "material": "82% cotton 18% polyester",
+    "clothing": "pants",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 1
+  },
+  {
+    "material": "86% cotton 14% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 9
+  },
+  {
+    "material": "86% cotton 14% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 4
+  },
+  {
+    "material": "86% cotton 14% polyester",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 31
+  },
+  {
+    "material": "86% cotton 14% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 100
+  },
+  {
+    "material": "86% cotton 14% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 4
+  },
+  {
+    "material": "86% cotton 14% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 1
+  },
+  {
+    "material": "88% cotton 12% polyester",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 183
+  },
+  {
+    "material": "88% cotton 12% polyester",
+    "clothing": "pants",
+    "labelType": "other",
+    "Label_GenderVN": "Men",
+    "count": 5
+  },
+  {
+    "material": "91% polyester 9% elastane",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 5
+  },
+  {
+    "material": "91% polyester 9% elastane",
+    "clothing": "hoodie",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 34
+  },
+  {
+    "material": "91% polyester 9% elastane",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "other",
+    "count": 2
+  },
+  {
+    "material": "91% polyester 9% elastane",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 23
+  },
+  {
+    "material": "95% cotton 5% elastane",
+    "clothing": "coat",
+    "labelType": "other",
+    "Label_GenderVN": "Women",
+    "count": 2
+  },
+  {
+    "material": "95% cotton 5% elastane",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 5
+  },
+  {
+    "material": "95% cotton 5% elastane",
+    "clothing": "outfits",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 1
+  },
+  {
+    "material": "95% cotton 5% elastane",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 7
+  },
+  {
+    "material": "95% cotton 5% elastane",
+    "clothing": "sleepwear",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 8
+  },
+  {
+    "material": "95% cotton 5% elastane",
+    "clothing": "underclothes",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 8
+  },
+  {
+    "material": "95% cotton 5% elastane",
+    "clothing": "uniform",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 287
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "coat",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 2
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "dress",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 3
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Kid",
+    "count": 9
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "jacket",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 1
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "outfits",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 4
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "pants",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 4
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 24
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "underclothes",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 13
+  },
+  {
+    "material": "95% cotton 5% spandex",
+    "clothing": "uniform",
+    "labelType": "knitted",
+    "Label_GenderVN": "Men",
+    "count": 14
+  },
+  {
+    "material": "97% cotton 3% spandex",
+    "clothing": "dress",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 3
+  },
+  {
+    "material": "97% cotton 3% spandex",
+    "clothing": "shirt",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 24
+  },
+  {
+    "material": "97% cotton 3% spandex",
+    "clothing": "underclothes",
+    "labelType": "knitted",
+    "Label_GenderVN": "Women",
+    "count": 13
+  }
+]
