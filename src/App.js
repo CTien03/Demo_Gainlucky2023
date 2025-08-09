@@ -1,11 +1,20 @@
-import React from 'react';
-import InteractivePieChartDemo from './InteractivePieChartDemo';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import TrangChinh from "./pages/TrangChinh";
+import TrangBieuDo from "./pages/TrangBieuDo";
+import TrangDuong from "./pages/TrangDuong";
+import './styles/global.css';
+import './styles/charts.css';
 
 function App() {
   return (
-    <div className="App">
-      <InteractivePieChartDemo />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<TrangChinh />} />
+        <Route path="/gender-analysis" element={<TrangBieuDo />} />
+        <Route path="/trend-analysis" element={<TrangDuong />} />
+      </Routes>
+    </Router>
   );
 }
 
